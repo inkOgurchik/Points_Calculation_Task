@@ -1,0 +1,15 @@
+C:\Users\Umar\RiderProjects\Task\Points_Calculation_Task\Calculation_Tasks\Calculation_Tasks\bin\Debug\net6.0\Calculation_Tasks.exe
+C:\Users\Umar\RiderProjects\Task\Points_Calculation_Task\Calculation_Tasks\Calculation_Tasks\bin\Debug\net6.0\Calculation_Tasks.deps.json
+C:\Users\Umar\RiderProjects\Task\Points_Calculation_Task\Calculation_Tasks\Calculation_Tasks\bin\Debug\net6.0\Calculation_Tasks.runtimeconfig.json
+C:\Users\Umar\RiderProjects\Task\Points_Calculation_Task\Calculation_Tasks\Calculation_Tasks\bin\Debug\net6.0\Calculation_Tasks.dll
+C:\Users\Umar\RiderProjects\Task\Points_Calculation_Task\Calculation_Tasks\Calculation_Tasks\bin\Debug\net6.0\Calculation_Tasks.pdb
+C:\Users\Umar\RiderProjects\Task\Points_Calculation_Task\Calculation_Tasks\Calculation_Tasks\obj\Debug\net6.0\Calculation_Tasks.csproj.AssemblyReference.cache
+C:\Users\Umar\RiderProjects\Task\Points_Calculation_Task\Calculation_Tasks\Calculation_Tasks\obj\Debug\net6.0\Calculation_Tasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Umar\RiderProjects\Task\Points_Calculation_Task\Calculation_Tasks\Calculation_Tasks\obj\Debug\net6.0\Calculation_Tasks.AssemblyInfoInputs.cache
+C:\Users\Umar\RiderProjects\Task\Points_Calculation_Task\Calculation_Tasks\Calculation_Tasks\obj\Debug\net6.0\Calculation_Tasks.AssemblyInfo.cs
+C:\Users\Umar\RiderProjects\Task\Points_Calculation_Task\Calculation_Tasks\Calculation_Tasks\obj\Debug\net6.0\Calculation_Tasks.csproj.CoreCompileInputs.cache
+C:\Users\Umar\RiderProjects\Task\Points_Calculation_Task\Calculation_Tasks\Calculation_Tasks\obj\Debug\net6.0\Calculation_Tasks.dll
+C:\Users\Umar\RiderProjects\Task\Points_Calculation_Task\Calculation_Tasks\Calculation_Tasks\obj\Debug\net6.0\refint\Calculation_Tasks.dll
+C:\Users\Umar\RiderProjects\Task\Points_Calculation_Task\Calculation_Tasks\Calculation_Tasks\obj\Debug\net6.0\Calculation_Tasks.pdb
+C:\Users\Umar\RiderProjects\Task\Points_Calculation_Task\Calculation_Tasks\Calculation_Tasks\obj\Debug\net6.0\Calculation_Tasks.genruntimeconfig.cache
+C:\Users\Umar\RiderProjects\Task\Points_Calculation_Task\Calculation_Tasks\Calculation_Tasks\obj\Debug\net6.0\ref\Calculation_Tasks.dll
